@@ -1,0 +1,7 @@
+{
+  "textFontFamily": "宋体",
+  "enabledCssSnippets": [
+    "custom-style"
+  ],
+  "baseFontSize": 16
+}
