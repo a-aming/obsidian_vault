@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "719418b1faba6c93",
+        "id": "c2ae6e5fe7d65671",
         "type": "tabs",
         "children": [
           {
-            "id": "edf5dcb769f8fd60",
+            "id": "080cf4e1ef681c0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中级-数据库系统工程师/6. 数据库技术基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99e12649c87b3c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中级-数据库系统工程师/6. 数据库技术基础.md",
+                "file": "未命名 1/05 专有云网络架构.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中级-数据库系统工程师/6. 数据库技术基础.md",
+                "file": "未命名 1/05 专有云网络架构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中级-数据库系统工程师/6. 数据库技术基础.md",
+                "file": "未命名 1/05 专有云网络架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中级-数据库系统工程师/6. 数据库技术基础.md"
+                "file": "未命名 1/05 专有云网络架构.md"
               }
             }
           }
@@ -159,17 +147,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edf5dcb769f8fd60",
+  "active": "080cf4e1ef681c0a",
   "lastOpenFiles": [
-    "中级-数据库系统工程师/6. 数据库技术基础.md",
-    "中级-数据库系统工程师/8. SQL 语言.md",
-    "未命名/Excel函数.md",
-    "中级-数据库系统工程师",
-    "未命名/随机变量及其分布.md",
-    "未命名/抽样分布.md",
-    "未命名/1.md",
-    "未命名",
+    "Pasted image 20240912160259.png",
+    "未命名.canvas",
+    "未命名 1/05 专有云网络架构.md",
+    "Linux/未命名 1.md",
+    "未命名 1/04.md",
     "未命名/2.md",
+    "未命名/随机变量及其分布.md",
+    "未命名/Excel函数.md",
+    "中级/7. 关系数据库.md",
+    "中级/6. 数据库技术基础.md",
+    "未命名 1/01 专有云运维体系.md",
+    "未命名 1/02 安全生产管理规范.md",
+    "未命名 1/res/Pasted image 20240911104927.png",
+    "未命名 1/res",
+    "未命名 1/res/Pasted image 20240912151300.png",
+    "未命名 1/res/Pasted image 20240912151229.png",
+    "未命名 1/res/Pasted image 20240912151056.png",
+    "未命名 1/res/Pasted image 20240912150903.png",
+    "未命名 1/res/Pasted image 20240912113929.png",
+    "未命名 1/res/Pasted image 20240912113731.png",
+    "未命名 1/res/Pasted image 20240912113517.png",
+    "未命名 1/res/Pasted image 20240912113047.png",
+    "Pasted image 20240912113015.png",
+    "CDA/PART 8 数据管理（5%）.md",
+    "未命名 1",
+    "CDA/PART 7 业务分析报告与数据可视化报表（15%）.md",
+    "CDA/PART 6 业务数据分析（25%）.md",
+    "CDA/大纲.md",
+    "CDA/未命名.md",
+    "CDA",
+    "中级/8. SQL 语言.md",
+    "Linux",
+    "未命名/抽样分布.md",
+    "CDA/res",
+    "未命名/1.md",
+    "中级",
+    "未命名",
     "2.1.md"
   ]
 }
